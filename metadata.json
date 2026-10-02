@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast AI",
+  "description": "Smart Weather Forecasting with AI insights, 7-day and hourly trends, severe alerts, and ML predictive modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
